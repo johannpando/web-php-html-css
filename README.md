@@ -6,5 +6,6 @@ Además, cuenta con las siguientes características
 - Flexbox
 - Twitter Timeline
 - Mapa interactivo [leafletjs](https://leafletjs.com/index.html)
+- Íconos y fuentes [Fontawesome](https://fontawesome.com/)
 - Web totalmente responsive
 
